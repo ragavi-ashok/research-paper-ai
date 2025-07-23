@@ -1,0 +1,81 @@
+Below you are asked to make hypothetical decisions. There is no right or wrong answer. I am interested in your own preference. No calculation is needed.
+
+Question 1: Which offer would you prefer?
+A. A payment of $3,400 this month.
+B. A payment of $3,800 next month.
+Answer with a single letter only: A or B.
+
+Question 2:Please consider the following alternatives. Please fill in the amount for which you consider alternatives A and B equally attractive:
+A.	A payment of $100 now.
+B.	A payment of $X in one year from now.
+$X has to be at least $..., such that B is as attractive as A.
+Respond with a number only.
+
+Question 3: Please consider the following alternatives. Please fill in the amount for which you consider the alternatives A and B as equally attractive:
+A.	A payment of $100 now.
+B.	A payment of $X in 10 years from now.
+$X has to be at least $..., such that B is as attractive as A
+Respond with a number only.
+
+Question 4: In an urn, there are 100 balls in three colors: red, yellow, and blue. Thirty balls are red; the remaining 70 are yellow or blue in an unknown proportion. Imagine a ball is randomly drawn from the urn. You are offered the following two lotteries. Which lottery would you prefer, A or B? Please answer with a single letter.
+A.	If the color of this ball is red, you win $100; otherwise, you win nothing. 
+B.	If the color of this ball is yellow, you win $100; otherwise, you win nothing.
+Answer with a single letter: A or B.
+
+Question 5:Lottery: Imagine you are offered the lottery. Please indicate the maximum amount $Z you are willing to pay to play.
+A.	With 10% chance, you will win $10.
+B.	With 90% chance, you will win $100. 
+I am willing to pay at most $Z to play this lottery
+Answer with a number only.
+
+Question 6:Lottery: Imagine you are offered the lottery. Please indicate the maximum amount $Z you are willing to pay to play.
+A.	With 40% chance, you will win $0.
+B.	With 60% chance, you will win $100. 
+I am willing to pay at most $Z to play this lottery
+Answer with a number only.
+
+Question 7: Lottery: Imagine you are offered the lottery. Please indicate the maximum amount $Z you are willing to pay to play.
+A.	With 10% chance, you will win $0.
+B.	With 90% chance, you will win $100. 
+I am willing to pay at most $Z to play this lottery
+Answer with a number only.
+
+Question 8:Imagine you are offered the lottery. Please indicate the maximum amount $Z you are willing to pay to play.
+A.	With 40% chance, you will win $0.
+B.	With 90% chance, you will win $10,000. 
+I am willing to pay at most $Z to play this lottery
+Answer with a number only.
+
+Question 9:Lottery: Imagine you are offered the lottery. Please indicate the maximum amount $Z you are willing to pay to play.
+A.	With 90% chance, you will win $0.
+B.	With 10% chance, you will win $100. 
+I am willing to pay at most $Z to play this lottery
+Answer with a number only.
+
+Question 10:Lottery: Imagine you are offered the lottery. Please indicate the maximum amount $Z you are willing to pay to play.
+A.	With 40% chance, you will win $0.
+B.	With 60% chance, you will win $400. 
+I am willing to pay at most $K to avoid this lottery.
+Answer with a number only.
+
+Question 11:Lottery: The following lottery involve losses. Imagine you have to play this lottery, unless you pay a certain amount of money beforehand. What is the maximum amount you would be willing to pay, in order to avoid playing the lottery? This corresponds to buying an insurance that saves you from suffering potential losses.
+A.	With 60% chance, you will lose $80.
+B.	With 40% chance, there is no loss or win. 
+I am willing to pay at most $K to avoid this lottery.
+Answer with a number only.
+
+Question 12:Lottery: The following lottery involve losses. Imagine you have to play this lottery, unless you pay a certain amount of money beforehand. What is the maximum amount you would be willing to pay, in order to avoid playing the lottery? This corresponds to buying an insurance that saves you from suffering potential losses.
+A.	With 60% chance, you will lose $100.
+B.	With 40% chance, there is no loss or win. 
+I am willing to pay at most $K to avoid this lottery.
+Answer with a number only.
+
+Question 13: Lottery: In the following lottery, you have a 50% chance to win. The potential loss is fixed and given. Please state the minimum amount $X for which you would be willing to accept the lottery. No calculation is needed, just write down $X.
+A.	With 50% chance, you will lose $25 
+B.	With 50% chance, you will win $X.
+Answer with a number only.
+
+Question 14:Lottery: In the following lottery, you have a 50% chance to win or lose money. The potential loss is given. Please state the minimum amount Y for which you would be willing to accept the lottery. No calculation is needed, just write down $Y. 
+A.	With 50% chance, you will lose $100 
+B.	With 50% chance, you will lose $ Y.
+Answer with a number only.
