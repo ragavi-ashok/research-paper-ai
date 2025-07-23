@@ -62,8 +62,8 @@ Usage
 Run any script with:
 
 python <script_name>.py
-For example:
 
+For example:
 python chatgpt_non-reasoning.py
 Results will be written to the corresponding Excel workbook (e.g. ChatGPT_4o_answers.xlsx).
 
